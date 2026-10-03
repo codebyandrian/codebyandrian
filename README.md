@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>👋 Hi, I'm Ahmad Andrian Fitzal Rahman!</h1>
+  <h1>Hi, I'm Ahmad Andrian Fitzal Rahman!</h1>
   <p><strong>Informatics Engineering Student at Universitas Dian Nuswantoro | Full-Stack & Web Developer</strong></p>
 
   <p>
@@ -17,8 +17,8 @@
 ### 🚀 About Me
 
 - 🎓 Currently pursuing a Bachelor's degree in **Informatics Engineering** at **Universitas Dian Nuswantoro (UDINUS)**.
-- 💻 Passionate about **Full-Stack Web Development** and modern UI/UX design.
-- 🛠️ Currently building projects with **Laravel**, **Next.js**, **PHP**, and **Flutter**.
+- 💻 Passionate about **Full-Stack Web Development**, UI/UX design, and cloud technologies.
+- 🛠️️ Actively building web & mobile apps using **Laravel**, **Next.js**, **PHP**, and **Flutter**.
 - 📍 Based in **Semarang, Central Java, Indonesia**.
 
 ---
@@ -33,7 +33,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-#### **Databases & DevOps / Tools**
+#### **Databases & Tools**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -41,12 +41,11 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📌 Current Focus & Learning
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codebyandrian&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyandrian&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
-</div>
+- 🌐 Building scalable web systems with **Laravel** & **Next.js**.
+- 📱 Developing cross-platform mobile applications with **Flutter**.
+- ☁️ Exploring DevOps workflows & containerization with **Docker**.
 
 ---
 
